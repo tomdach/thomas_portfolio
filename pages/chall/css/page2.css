@@ -1,0 +1,136 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+#div0{
+	height:60px;
+	width: 100%;
+	border-top: auto;
+	background-color:rgba(150,120,110,0.5);
+    margin-left: auto
+}
+
+#logo1{
+
+	float: right;
+	height: 60px;
+	width: 100px;
+}
+li{
+	display:inline-block;
+	margin-left: 70px;
+	color: blue;
+    
+}
+ul{
+	text-align: center;
+}
+
+	
+
+
+body {
+	background-image: url("../img/flower1.jpg");
+	background-size: 100%;
+}
+#div1{
+	
+	height: 50px;
+	width: 100%;
+	text-align: center;
+}
+#div6{
+     
+     
+     height: 549px;
+     width: 100%;
+     display: flex;
+justify-content: space-between;
+color: green;
+
+
+
+}
+
+#div2{
+
+height: 400px;
+width: 250px;
+margin-top: 70px;
+margin-left: 10px;
+
+
+
+}	
+#div3{
+height: 400px;
+width: 250px;
+margin-top: 70px;
+background-color: grey;
+opacity: 0.90;
+
+}
+#div4{
+
+height: 400px;
+width: 250px;
+margin-top: 70px;
+
+
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+#div5{
+
+height: 400px;
+width: 250px;
+margin-top: 70px;
+margin-right: 10px;
+
+}
+#image1{
+	height: 40%;
+width: 100%
+
+}
+#image2{
+
+	height: 40%;
+width: 100%
+
+}
+#image3{
+	height: 40%;
+width: 100%;
+
+}
+#image4{
+	height: 40%;
+	width: 100%
+
+}
+
+.h1{
+	font-size: 20px;
+	margin-left: 70px;
+}
+.h2{
+	font-size: 20px;
+	margin-left: 70px;
+
+}
+.h3{
+	font-size: 20px;
+	margin-left: 70px;
+
+}
+.h4{
+	font-size: 20px;
+	margin-left: 70px;
+
+}

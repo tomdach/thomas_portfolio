@@ -1,0 +1,101 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body {
+	background-image: url("../img/flower8.jpg");
+	background-size: 100%;
+}
+
+
+#div0{
+	height:60px;
+	width: 100%;
+	border-top: auto;
+	background-color:rgba(150,120,110,0.5);
+    margin-left: auto
+}
+
+#logo1{
+
+	float: right;
+	height: 60px;
+	width: 100px;
+}
+li{
+	display:inline-block;
+	margin-left: 70px;
+	color: blue;
+    
+}
+ul{
+	text-align: center;
+}
+
+
+#div1{
+     
+     
+     height: 280px;
+     width: 100%;
+     
+    }
+
+#div2{
+
+	height: 280px;
+	width:100%;
+	
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+#div3{
+	height: 280px;
+	width: 280px;
+	
+}
+#img1{
+	height: 250px;
+	width: 280px;
+}
+#texte1{
+	float: left;
+
+}
+
+#texte{
+	margin-left: 290px;
+	height: 50%;
+	width:100%;
+}
+ #img2{
+ 	float: right;
+ 	height: 250px;
+ 	width: 280px;
+ }
+ #div5{
+ 	float: right;
+ 	height: 280px;
+ 	width:280px;
+ 	bor
+ }
+ #h11{
+ 	text-align: center;
+ }
+ #rose{
+ 	float: right;
+ 	margin-right: 10px;
+ }
+ #une{
+ 	float: right;
+ }
+ h1{
+ 	margin-bottom: 20px;
+ 	margin-top: 20px;
+ }
+ #nul {
+ 	margin-right: 10px;
+ }
